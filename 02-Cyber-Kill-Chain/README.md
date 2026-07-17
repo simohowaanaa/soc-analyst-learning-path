@@ -1,6 +1,6 @@
 # 02 - Cyber Kill Chain
 
-**Statut :** 🟨 en cours (9 leçons, 13 questions, 1 quiz — ~1h, niveau Easy)
+**Statut :** ✅ terminé (9 leçons, 13 questions, 1 quiz — ~1h, niveau Easy)
 
 ## Résumé
 
@@ -22,8 +22,8 @@ pour savoir situer une activité suspecte dans la chaîne d'attaque et prioriser
 6. [x] [Exploitation](06-Exploitation.md)
 7. [x] [Installation](07-Installation.md)
 8. [x] [Command and Control (C2)](08-Command-and-Control.md)
-9. [ ] [Actions on Objectives](09-Actions-on-Objectives.md)
-10. [ ] Quiz de validation
+9. [x] [Actions on Objectives](09-Actions-on-Objectives.md)
+10. [x] [Quiz de validation](10-Quiz-Cyber-Kill-Chain.md) (11 points)
 
 ## Points clés à retenir
 
