@@ -16,7 +16,7 @@ croisé en section 1 (SOAR/playbooks) et section 2 (Cyber Kill Chain).
 
 ## Leçons
 
-1. [ ] [Introduction](01-Introduction.md)
+1. [x] [Introduction](01-Introduction.md)
 2. [ ] [Introduction to MITRE](02-Introduction-to-MITRE.md)
 3. [ ] [Matrix](03-Matrix.md)
 4. [ ] [Tactics](04-Tactics.md)
