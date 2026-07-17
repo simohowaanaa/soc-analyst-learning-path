@@ -1,6 +1,6 @@
 # 01 - SOC Fundamentals
 
-**Statut :** 🟨 en cours (9 leçons, 11 questions, 1 quiz — ~30 min)
+**Statut :** ✅ terminé (9 leçons, 11 questions, 1 quiz — ~30 min)
 
 ## Résumé
 
@@ -19,7 +19,7 @@ erreurs courantes à éviter. Base indispensable avant les sections techniques s
 7. [x] [SOAR - Security Orchestration Automation and Response](07-SOAR.md)
 8. [x] [Threat Intelligence Feed](08-Threat-Intelligence-Feed.md)
 9. [x] [Common Mistakes made by SOC Analysts](09-Common-Mistakes-made-by-SOC-Analysts.md)
-10. [ ] Quiz de validation
+10. [x] Quiz de validation (13/13 questions revues)
 
 ## Points clés à retenir
 
