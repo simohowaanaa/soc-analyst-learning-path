@@ -21,7 +21,7 @@ pour savoir situer une activité suspecte dans la chaîne d'attaque et prioriser
 5. [x] [Delivery](05-Delivery.md)
 6. [x] [Exploitation](06-Exploitation.md)
 7. [x] [Installation](07-Installation.md)
-8. [ ] [Command and Control (C2)](08-Command-and-Control.md)
+8. [x] [Command and Control (C2)](08-Command-and-Control.md)
 9. [ ] [Actions on Objectives](09-Actions-on-Objectives.md)
 10. [ ] Quiz de validation
 
