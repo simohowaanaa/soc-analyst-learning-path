@@ -12,7 +12,7 @@ erreurs courantes à éviter. Base indispensable avant les sections techniques s
 
 1. [x] [Introduction to SOC](01-Introduction-to-SOC.md)
 2. [x] [SOC Types and Roles](02-SOC-Types-and-Roles.md)
-3. [ ] [SOC Analyst and Their Responsibilities](03-SOC-Analyst-and-Their-Responsibilities.md)
+3. [x] [SOC Analyst and Their Responsibilities](03-SOC-Analyst-and-Their-Responsibilities.md)
 4. [ ] [SIEM and Analyst Relationship](04-SIEM-and-Analyst-Relationship.md)
 5. [ ] [Log Management](05-Log-Management.md)
 6. [ ] [EDR - Endpoint Detection and Response](06-EDR-Endpoint-Detection-and-Response.md)
