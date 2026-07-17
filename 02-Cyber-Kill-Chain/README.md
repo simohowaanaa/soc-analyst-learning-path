@@ -19,7 +19,7 @@ pour savoir situer une activité suspecte dans la chaîne d'attaque et prioriser
 3. [x] [Reconnaissance](03-Reconnaissance.md)
 4. [x] [Weaponization](04-Weaponization.md)
 5. [x] [Delivery](05-Delivery.md)
-6. [ ] [Exploitation](06-Exploitation.md)
+6. [x] [Exploitation](06-Exploitation.md)
 7. [ ] [Installation](07-Installation.md)
 8. [ ] [Command and Control (C2)](08-Command-and-Control.md)
 9. [ ] [Actions on Objectives](09-Actions-on-Objectives.md)
