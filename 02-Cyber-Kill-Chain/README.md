@@ -17,7 +17,7 @@ pour savoir situer une activité suspecte dans la chaîne d'attaque et prioriser
 1. [x] [Introduction to Cyber Kill Chain](01-Introduction-to-Cyber-Kill-Chain.md)
 2. [x] [Cyber Kill Chain Steps](02-Cyber-Kill-Chain-Steps.md)
 3. [x] [Reconnaissance](03-Reconnaissance.md)
-4. [ ] [Weaponization](04-Weaponization.md)
+4. [x] [Weaponization](04-Weaponization.md)
 5. [ ] [Delivery](05-Delivery.md)
 6. [ ] [Exploitation](06-Exploitation.md)
 7. [ ] [Installation](07-Installation.md)
