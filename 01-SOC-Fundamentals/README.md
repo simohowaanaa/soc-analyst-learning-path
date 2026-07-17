@@ -17,7 +17,7 @@ erreurs courantes à éviter. Base indispensable avant les sections techniques s
 5. [x] [Log Management](05-Log-Management.md)
 6. [x] [EDR - Endpoint Detection and Response](06-EDR-Endpoint-Detection-and-Response.md)
 7. [x] [SOAR - Security Orchestration Automation and Response](07-SOAR.md)
-8. [ ] [Threat Intelligence Feed](08-Threat-Intelligence-Feed.md)
+8. [x] [Threat Intelligence Feed](08-Threat-Intelligence-Feed.md)
 9. [ ] [Common Mistakes made by SOC Analysts](09-Common-Mistakes-made-by-SOC-Analysts.md)
 10. [ ] Quiz de validation
 
