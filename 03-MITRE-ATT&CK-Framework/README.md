@@ -23,7 +23,7 @@ croisé en section 1 (SOAR/playbooks) et section 2 (Cyber Kill Chain).
 5. [x] [Techniques and Sub-Techniques](05-Techniques-and-Sub-Techniques.md)
 6. [x] [Mitigations](06-Mitigations.md)
 7. [x] [Groups](07-Groups.md)
-8. [ ] [Software](08-Software.md)
+8. [x] [Software](08-Software.md)
 9. [ ] Quiz de validation
 
 ## Points clés à retenir
