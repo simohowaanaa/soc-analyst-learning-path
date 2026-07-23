@@ -20,8 +20,8 @@ croisé en section 1 (SOAR/playbooks) et section 2 (Cyber Kill Chain).
 2. [x] [Introduction to MITRE](02-Introduction-to-MITRE.md)
 3. [x] [Matrix](03-Matrix.md)
 4. [x] [Tactics](04-Tactics.md)
-5. [ ] [Techniques and Sub-Techniques](05-Techniques-and-Sub-Techniques.md)
-6. [ ] [Mitigations](06-Mitigations.md)
+5. [x] [Techniques and Sub-Techniques](05-Techniques-and-Sub-Techniques.md)
+6. [x] [Mitigations](06-Mitigations.md)
 7. [ ] [Groups](07-Groups.md)
 8. [ ] [Software](08-Software.md)
 9. [ ] Quiz de validation
