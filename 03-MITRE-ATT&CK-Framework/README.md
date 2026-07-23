@@ -1,6 +1,6 @@
 # 03 - MITRE ATT&CK Framework
 
-**Statut :** 🟨 en cours (8 leçons, 19 questions, 1 quiz — ~1h, niveau Easy)
+**Statut :** ✅ terminé (8 leçons, 19 questions, 1 quiz — ~1h, niveau Easy)
 
 ## Résumé
 
@@ -24,7 +24,7 @@ croisé en section 1 (SOAR/playbooks) et section 2 (Cyber Kill Chain).
 6. [x] [Mitigations](06-Mitigations.md)
 7. [x] [Groups](07-Groups.md)
 8. [x] [Software](08-Software.md)
-9. [ ] Quiz de validation
+9. [x] [Quiz de validation](09-Quiz-MITRE-ATT-CK.md) (14 points)
 
 ## Points clés à retenir
 

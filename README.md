@@ -8,7 +8,7 @@ Notes personnelles prises en suivant le [SOC Analyst Learning Path](https://lets
 |---|---------|--------|
 | 1 | [SOC Fundamentals](01-SOC-Fundamentals/README.md) | ✅ |
 | 2 | [Cyber Kill Chain](02-Cyber-Kill-Chain/README.md) | ✅ |
-| 3 | [MITRE ATT&CK Framework](03-MITRE-ATT&CK-Framework/README.md) | ⬜ |
+| 3 | [MITRE ATT&CK Framework](03-MITRE-ATT&CK-Framework/README.md) | ✅ |
 | 4 | [Phishing Email Analysis](04-Phishing-Email-Analysis/README.md) | ⬜ |
 | 5 | [Detecting Web Attacks](05-Detecting-Web-Attacks/README.md) | ⬜ |
 | 6 | [Detecting Web Attacks - 2](06-Detecting-Web-Attacks-2/README.md) | ⬜ |
