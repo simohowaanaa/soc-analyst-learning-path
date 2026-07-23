@@ -14,7 +14,7 @@ puis mise en pratique sur 4 alertes SOC réelles.
 
 ## Leçons
 
-1. [ ] [Introduction to Phishing](01-Introduction-to-Phishing.md)
+1. [x] [Introduction to Phishing](01-Introduction-to-Phishing.md)
 2. [ ] [Information Gathering](02-Information-Gathering.md)
 3. [ ] [What is an Email Header and How to Read Them?](03-What-is-an-Email-Header.md)
 4. [ ] [Email Header Analysis](04-Email-Header-Analysis.md)
