@@ -21,7 +21,7 @@ puis mise en pratique sur 4 alertes SOC réelles.
 5. [x] [Static Analysis](05-Static-Analysis.md)
 6. [x] [Dynamic Analysis](06-Dynamic-Analysis.md)
 7. [x] [Additional Techniques](07-Additional-Techniques.md)
-8. [ ] Quiz de validation
+8. [x] [Quiz de validation](08-Quiz-Phishing.md) (30 points)
 
 ## Alertes SOC pratiquées
 
