@@ -18,7 +18,7 @@ puis mise en pratique sur 4 alertes SOC réelles.
 2. [x] [Information Gathering](02-Information-Gathering.md)
 3. [x] [What is an Email Header and How to Read Them?](03-What-is-an-Email-Header.md)
 4. [x] [Email Header Analysis](04-Email-Header-Analysis.md)
-5. [ ] [Static Analysis](05-Static-Analysis.md)
+5. [x] [Static Analysis](05-Static-Analysis.md)
 6. [ ] [Dynamic Analysis](06-Dynamic-Analysis.md)
 7. [ ] [Additional Techniques](07-Additional-Techniques.md)
 8. [ ] Quiz de validation
