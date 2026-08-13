@@ -10,9 +10,9 @@ Injection, IDOR, RFI/LFI — avec mise en pratique sur 6 alertes SOC réelles.
 
 ## Leçons
 
-1. [ ] [Introduction](01-Introduction.md)
-2. [ ] [Why Detecting Web Attacks Important](02-Why-Detecting-Web-Attacks-Important.md)
-3. [ ] [OWASP](03-OWASP.md)
+1. [x] [Introduction](01-Introduction.md)
+2. [x] [Why Detecting Web Attacks Important](02-Why-Detecting-Web-Attacks-Important.md)
+3. [x] [OWASP](03-OWASP.md)
 4. [ ] [How Web Applications Work](04-How-Web-Applications-Work.md)
 5. [ ] [Detecting SQL Injection Attacks](05-Detecting-SQL-Injection-Attacks.md)
 6. [ ] [Detecting Cross Site Scripting (XSS) Attacks](06-Detecting-XSS-Attacks.md)
