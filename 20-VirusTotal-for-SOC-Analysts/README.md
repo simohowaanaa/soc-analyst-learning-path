@@ -12,7 +12,7 @@ section 1 (Threat Intelligence) et section 4 (Static Analysis).
 
 1. [x] [Introduction to VirusTotal for SOC Analysts](01-Introduction-to-VirusTotal.md)
 2. [x] [File Analysis with VirusTotal](02-File-Analysis-with-VirusTotal.md)
-3. [ ] [Scanning URLs with VirusTotal](03-Scanning-URLs-with-VirusTotal.md)
+3. [x] [Scanning URLs with VirusTotal](03-Scanning-URLs-with-VirusTotal.md)
 4. [ ] [Searching for IOC](04-Searching-for-IOC.md)
 5. [ ] [Key Points to Pay Attention](05-Key-Points-to-Pay-Attention.md)
 6. [ ] Quiz de validation
