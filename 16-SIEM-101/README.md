@@ -1,15 +1,21 @@
-# 16-SIEM-101 — SIEM 101
+# 16 - SIEM 101
 
-**Statut :** ⬜ à faire
+**Statut :** 🟨 en cours (5 leçons, 8 questions, 1 quiz — ~30 min, niveau Beginner)
 
 ## Résumé
 
-_(à compléter au fur et à mesure des leçons)_
+Fonctionnement interne du SIEM (au-delà de l'usage côté analyste déjà vu en section 1) :
+collecte, agrégation/parsing, stockage des logs, et génération d'alertes.
 
 ## Leçons
 
-_(liste des sous-parties, ajoutées une par une)_
+1. [ ] [SIEM Introduction](01-SIEM-Introduction.md)
+2. [ ] [Log Collection](02-Log-Collection.md)
+3. [ ] [Log Aggregation and Parsing](03-Log-Aggregation-and-Parsing.md)
+4. [ ] [Log Storage](04-Log-Storage.md)
+5. [ ] [Alerting](05-Alerting.md)
+6. [ ] Quiz de validation
 
 ## Points clés à retenir
 
-_(à compléter)_
+_(à compléter au fur et à mesure)_
