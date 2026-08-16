@@ -21,7 +21,7 @@ Notes personnelles prises en suivant le [SOC Analyst Learning Path](https://lets
 | 13 | [Malicious Document Analysis](13-Malicious-Document-Analysis/README.md) | ⬜ |
 | 14 | [Security Solutions](14-Security-Solutions/README.md) | ⬜ |
 | 15 | [Network Log Analysis](15-Network-Log-Analysis/README.md) | ⬜ |
-| 16 | [SIEM 101](16-SIEM-101/README.md) | ⬜ |
+| 16 | [SIEM 101](16-SIEM-101/README.md) | ✅ |
 | 17 | [Incident Management 101](17-Incident-Management-101/README.md) | ⬜ |
 | 18 | [Splunk](18-Splunk/README.md) | ⬜ |
 | 19 | [Cyber Threat Intelligence](19-Cyber-Threat-Intelligence/README.md) | ⬜ |
