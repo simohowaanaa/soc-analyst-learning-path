@@ -10,9 +10,9 @@ collecte, agrégation/parsing, stockage des logs, et génération d'alertes.
 ## Leçons
 
 1. [x] [SIEM Introduction](01-SIEM-Introduction.md)
-2. [ ] [Log Collection](02-Log-Collection.md)
-3. [ ] [Log Aggregation and Parsing](03-Log-Aggregation-and-Parsing.md)
-4. [ ] [Log Storage](04-Log-Storage.md)
+2. [x] [Log Collection](02-Log-Collection.md)
+3. [x] [Log Aggregation and Parsing](03-Log-Aggregation-and-Parsing.md)
+4. [x] [Log Storage](04-Log-Storage.md)
 5. [ ] [Alerting](05-Alerting.md)
 6. [ ] Quiz de validation
 
