@@ -16,8 +16,8 @@ Management, SOAR, Phishing Analysis).
 ## Leçons
 
 1. [x] [Introduction to SIEM Alerts](01-Introduction-to-SIEM-Alerts.md)
-2. [ ] [Detection](02-Detection.md)
-3. [ ] [Case Creation and Playbook Initiation](03-Case-Creation-and-Playbook-Initiation.md)
+2. [x] [Detection](02-Detection.md)
+3. [x] [Case Creation and Playbook Initiation](03-Case-Creation-and-Playbook-Initiation.md)
 4. [ ] [Email Analysis](04-Email-Analysis.md)
 5. [ ] [Network and Log Analysis](05-Network-and-Log-Analysis.md)
 6. [ ] [Endpoint Analysis](06-Endpoint-Analysis.md)
