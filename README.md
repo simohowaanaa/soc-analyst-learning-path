@@ -13,7 +13,7 @@ Notes personnelles prises en suivant le [SOC Analyst Learning Path](https://lets
 | 5 | [Detecting Web Attacks](05-Detecting-Web-Attacks/README.md) | 🟨 |
 | 6 | [Detecting Web Attacks - 2](06-Detecting-Web-Attacks-2/README.md) | ⬜ |
 | 7 | [Investigate Web Attack](07-Investigate-Web-Attack/README.md) | ⬜ |
-| 8 | [How to Investigate a SIEM Alert?](08-How-to-Investigate-a-SIEM-Alert/README.md) | ⬜ |
+| 8 | [How to Investigate a SIEM Alert?](08-How-to-Investigate-a-SIEM-Alert/README.md) | 🟨 |
 | 9 | [Malware Analysis Fundamentals](09-Malware-Analysis-Fundamentals/README.md) | ⬜ |
 | 10 | [SA - Malware - Event ID: 77](10-SA-Malware-Event-ID-77/README.md) | ⬜ |
 | 11 | [Dynamic Malware Analysis](11-Dynamic-Malware-Analysis/README.md) | ⬜ |
