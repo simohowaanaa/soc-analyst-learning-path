@@ -1,6 +1,6 @@
 # 08 - How to Investigate a SIEM Alert?
 
-**Statut :** 🟨 en cours (7 leçons, 20 questions — ~2h, niveau Easy)
+**Statut :** ✅ terminé (7 leçons, 20 questions — ~2h, niveau Easy)
 
 ## Résumé
 
@@ -21,7 +21,7 @@ Management, SOAR, Phishing Analysis).
 4. [x] [Email Analysis](04-Email-Analysis.md)
 5. [x] [Network and Log Analysis](05-Network-and-Log-Analysis.md)
 6. [x] [Endpoint Analysis](06-Endpoint-Analysis.md)
-7. [ ] [Result](07-Result.md)
+7. [x] [Result](07-Result.md)
 
 ## Points clés à retenir
 
