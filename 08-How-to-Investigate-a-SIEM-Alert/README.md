@@ -19,8 +19,8 @@ Management, SOAR, Phishing Analysis).
 2. [x] [Detection](02-Detection.md)
 3. [x] [Case Creation and Playbook Initiation](03-Case-Creation-and-Playbook-Initiation.md)
 4. [x] [Email Analysis](04-Email-Analysis.md)
-5. [ ] [Network and Log Analysis](05-Network-and-Log-Analysis.md)
-6. [ ] [Endpoint Analysis](06-Endpoint-Analysis.md)
+5. [x] [Network and Log Analysis](05-Network-and-Log-Analysis.md)
+6. [x] [Endpoint Analysis](06-Endpoint-Analysis.md)
 7. [ ] [Result](07-Result.md)
 
 ## Points clés à retenir

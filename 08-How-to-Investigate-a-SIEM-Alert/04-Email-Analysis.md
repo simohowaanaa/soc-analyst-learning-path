@@ -51,10 +51,9 @@ fichier/URL malveillant, et recherche des connexions vers un éventuel C2.
 D'après les infos déjà obtenues en leçon 3 (`Device Action: Allowed`,
 `E-mail Subject: Free Coffee Voucher`) :
 
-- Sujet de l'email → **Free Coffee Voucher** (déjà confirmé)
-- Nom de la pièce jointe → à confirmer via Email Security
-- Date d'envoi de l'email → à confirmer précisément via Email Security (probablement proche
-  de la date de l'alerte : May, 13, 2024, 09:22 AM)
+- Sujet de l'email → **Free Coffee Voucher** (validé Correct)
+- Nom de la pièce jointe → **free-coffee.zip** (validé Correct)
+- Date d'envoi de l'email → **May, 13, 2024, 09:22 AM** (validé Correct)
 
 ## Point clé
 
